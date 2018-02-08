@@ -1,7 +1,7 @@
 package model;
 
 import com.google.common.base.Objects;
-import fileLogger.ToJsonString;
+import filelogger.ToJsonString;
 
 /**
  * Book Class for LikeBook.

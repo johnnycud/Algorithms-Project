@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeSet;
 import com.google.common.base.Objects;
-import fileLogger.ToJsonString;
+import filelogger.ToJsonString;
 
 /**
  * User class for like book
